@@ -63,5 +63,4 @@ RECEIPT GENERATED <────────────────────�
 
 ## 👨‍💻 Contributors
 - Saharsha | Koushik Nayaka | Mayur Kiran Kumar
-- R. V. College of Engineering
-- Department of Computer Science Engineering
+- R. V. College of Engineering, Department of Computer Science Engineering
