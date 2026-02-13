@@ -22,12 +22,12 @@ These barriers widen the gap between financial services and underserved users.
 ## 💡 Proposed Solution
 Users perform low-value banking transactions via secure authentication—no complex forms required.
 Key Features:
-🔐 Biometric authentication (fingerprint or face ID)
-📱 OTP-based verification
-🖥️ Minimal-text, intuitive interface
-✅ Automated account validation
-⚡ Real-time transaction confirmations
-📄 Instant bill and receipt generation
+- 🔐 Biometric authentication (fingerprint or face ID)
+- 📱 OTP-based verification
+- 🖥️ Minimal-text, intuitive interface
+- ✅ Automated account validation
+- ⚡ Real-time transaction confirmations
+- 📄 Instant bill and receipt generation
 
 ## 🧠 System Workflow
 ```
@@ -62,8 +62,6 @@ RECEIPT GENERATED <────────────────────�
 | Security & Authentication | OTP verification, Biometric integration, Data encryption |
 
 ## 👨‍💻 Contributors
-Saharsha
-Koushik Nayaka
-Mayur Kiran Kumar
-R. V. College of Engineering
-Department of Computer Science Engineering
+- Saharsha | Koushik Nayaka | Mayur Kiran Kumar
+- R. V. College of Engineering
+- Department of Computer Science Engineering
